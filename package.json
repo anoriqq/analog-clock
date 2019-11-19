@@ -1,0 +1,16 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anoriqq/analog-clock.git",
+  "author": "anoriqq <shota.yoshikawa@anoriqq.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
