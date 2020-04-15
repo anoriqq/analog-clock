@@ -7,10 +7,10 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.9"
   },
   "devDependencies": {
-    "eslint": "^6.5.1"
+    "eslint": "6.5.1"
   }
 }
